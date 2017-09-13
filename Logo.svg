@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_9">
+   <ellipse stroke="#7f0000" id="svg_8" ry="62.666663" rx="62.666663" cy="112.333329" cx="175.66667" stroke-width="6" fill="#ff7f00"/>
+   <ellipse stroke="#7f0000" id="svg_6" ry="50.666663" rx="50.666663" cy="112.333331" cx="175.666667" stroke-width="6" fill="#ffffff"/>
+   <ellipse stroke="#000000" ry="39.333332" rx="39.333332" id="svg_1" cy="112.999999" cx="176.33333" stroke-width="0" fill="#ff7f00"/>
+   <text stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Fantasy" font-size="24" id="Logo" y="122" x="177" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">KAV</text>
+  </g>
+ </g>
+</svg>
